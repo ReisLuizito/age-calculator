@@ -1,20 +1,48 @@
-.flex-container {
+body{
+  background-color: hsl(0, 0%, 94%);
+}
+.container {
     display: flex;
     flex-flow: column wrap;
-    background-color: ;
-    justify-content: center;
-    align-items: stretch;
+    justify-content: space-between;
+    align-items:flex-start;
+    align-content: space-between;
+    background-color: #ffffff;
+    position: relative;
+    top: 250px;
+    left: 500px;
+    width: 850px;
+    height: 500px;
 }
+
+.inputs {
+    display: flex;
+    justify-content: center;
+}
+
+label {
+    font-size: 32px;
+}
+
 .flex-item {
-    
+    margin-left: 20px;   
 }
 
 form {
 }
 
-label{
-    
+label {
+
 }
+
 input {
     
+}
+
+.button {
+left: 500px;
+}
+
+.results {
+    font-size: 32px;
 }
