@@ -1,4 +1,4 @@
-# C:\Users\Dinopc\Desktop\PROJETOS MENTORIA\age-calculator-app-main\design\desktop-design.jpg
+![Design preview for the Order summary card coding challenge](./design/desktop-design.jpg)
 
 # Calculadora de Idade
 
