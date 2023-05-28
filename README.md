@@ -1,4 +1,4 @@
-![Design preview for the Order summary card coding challenge](./design/desktop-design.jpg)
+![Design preview for the Age Calculator challenge](./design/desktop-design.jpg)
 
 # Calculadora de Idade
 
